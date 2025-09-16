@@ -1,1 +1,38 @@
-This is the root folder which contains links to all my research work
+# Welcome to my Generative AI Research Project
+
+This repository contains all materials for the study *"Using Generative AI Tools – Boon or Bane."*  
+The files are organised into folders for easy navigation and collaboration.
+
+
+## 📂 Folder Structure
+
+- [**Literature/**](./Literature/)
+  Contains journal articles, conference papers, books, and newspaper articles used in the literature review.  
+
+ 
+- [**Quantitative/**](./Quantitative/)
+  Includes survey data (CSV/Excel), survey questions, Python analysis scripts, and the quantitative analysis report.  
+
+- [**Qualitative/**](./Qualitative/)
+  Holds interview transcripts, interview protocols, consent forms, and qualitative insights/visualisations.  
+
+- [**Reports/**](./Reports/)
+  Draft research proposals, conference papers, and final reports related to the project.  
+
+- [**Media/**](./Media/)
+  Additional materials such as information sheets, photos, and other media files.  
+
+
+## 🔧 How to Contribute
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/NiwelAbel/Generative_AI_Research_49422311.git
+
+## Guidelines
+
+- Use consistent naming conventions (underscores instead of spaces).
+
+- Add meaningful commit messages.
+
+- Respect data sensitivity: qualitative files (e.g., interview transcripts) are confidential and should not be shared outside the team.
